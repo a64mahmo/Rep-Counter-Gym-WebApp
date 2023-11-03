@@ -1,21 +1,21 @@
-# Rep Counter
+# Rep and Set Tracker
 
-Quick start:
+Track your workout reps and sets with this straightforward web application. Never miss a beat in your fitness routine!
 
-```
-$ npm install
-$ npm start
-````
+## Features
+- Click the "REPS" button to increment your rep count.
+- Save your sets with the "SAVE SET" button.
+- Keep a record of your recent sets.
+- Enjoy a visually appealing design with vibrant buttons and background.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## How to Use
+1. Clone this repository.
+2. Open the `index.html` file in your web browser.
+3. Click the "REPS" button to increment your reps and the "SAVE SET" button to save your sets.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Feel free to fork and adapt this repository to meet your workout tracking needs!
